@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # appey-vue
 
 ## Project setup
@@ -19,3 +20,6 @@ npm run build
 ```
 npm run lint
 ```
+=======
+# appey
+>>>>>>> f41bc4151361135add740a3d3319b76558badf6b
